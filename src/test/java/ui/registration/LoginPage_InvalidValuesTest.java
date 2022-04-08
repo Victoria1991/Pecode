@@ -1,6 +1,5 @@
 package ui.registration;
 
-import constans.Endpoints;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -67,7 +66,7 @@ public class LoginPage_InvalidValuesTest extends BaseTest {
                 .verifyURL(BASE_URL);
     }
 
-    @Test(description = "3", dataProvider = "invalidData")
+   @Test(description = "3")
     public void verifyNameAndPasswordInputDisplayed() {
         basePage
                 .verifyNameInputDisplayed(true)
