@@ -9,22 +9,24 @@ import org.testng.annotations.Test;
 import page.BasePage;
 import tools.LocalDriverManager;
 import ui.BaseTest;
-import ui.registration.data.RegistrationInvalidData;
+import ui.registration.data.LoginInvalidData;
+
 
 import java.io.IOException;
 
-import static constans.PathsToFiles.Registration.*;
+import static constans.PathsToFiles.LoginContext.*;
+
 
 public class RegistrationPage_VerifyErrorMessages_InvalidValuesTest extends BaseTest {
 
-    private RegistrationInvalidData[] invalidData;
+    private LoginInvalidData[] invalidData;
 
     private BasePage basePage;
     protected WebDriver webDriver;
 
     @BeforeClass
     public void setUp() throws IOException {
-        invalidData = RegistrationInvalidData.getData(REGISTRATION_INVALID_DATA);
+        invalidData = LoginInvalidData.getData(LOGIN_INVALID_DATA);
         webDriver = LocalDriverManager.getWebDriver();
         basePage = BasePage.init(webDriver);
 
@@ -41,8 +43,8 @@ public class RegistrationPage_VerifyErrorMessages_InvalidValuesTest extends Base
         return list;
     }
 
-    @Test(description = "111", dataProvider = "invalidData")
-    public void verifyErrorMessages(RegistrationInvalidData data) {
+    @Test(dataProvider = "invalidData")
+    public void verifyErrorMessages(LoginInvalidData data) {
         basePage
                 .fillName(data.getName())
                 .verifyNameValue(data.getName())
@@ -50,15 +52,14 @@ public class RegistrationPage_VerifyErrorMessages_InvalidValuesTest extends Base
                 .verifyPasswordValue(data.getPassword())
                 .clickLogInButton()
                 .verifyErrorMassagePassword(data.getPasswordError())
-                .verifyErrorMassageName("sdfg");
+                .verifyErrorMassageName(data.getNameError());
 
     }
 
     @AfterClass
     protected void tearDown() {
-        uiTools.makeScreenShot((Math.random() * 10) + "test");
+        uiTools.makeScreenShot(webDriver,(Math.random() * 10) + "test");
         webDriver.quit();
-        webDriver.close();
         log.info("Quit");
     }
 }

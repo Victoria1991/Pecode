@@ -5,15 +5,15 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.io.IOException;
 
-public class RegistrationInvalidData {
+public class LoginInvalidData {
 
     private String name;
     private String nameError;
     private String password;
     private String passwordError;
 
-    public static RegistrationInvalidData[] getData(String filename) throws IOException {
-        return new ObjectMapper().readValue(new File(filename), RegistrationInvalidData[].class);
+    public static LoginInvalidData[] getData(String filename) throws IOException {
+        return new ObjectMapper().readValue(new File(filename), LoginInvalidData[].class);
     }
 
     public String getName() {

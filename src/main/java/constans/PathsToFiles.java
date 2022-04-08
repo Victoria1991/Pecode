@@ -22,7 +22,7 @@ public class PathsToFiles {
 
     public static final String BASE_PATH = "./src/main/resources/";
 
-    public interface Registration{
-        String REGISTRATION_INVALID_DATA = BASE_PATH + "registration/RegistrationInvalidData.json";
+    public interface LoginContext {
+        String LOGIN_INVALID_DATA = BASE_PATH + "registration/RegistrationInvalidData.json";
     }
 }
