@@ -76,11 +76,20 @@ public class BasePage extends BaseElement{
     }
     public BasePage verifyURL(String expected) {
         String actual = driver.getCurrentUrl();
-        Assert.assertEquals (actual,expected,"Verify error massage name ");
+        Assert.assertEquals(actual, expected, "Verify error massage name ");
         return this;
-
-
     }
+        public BasePage verifyNameInputDisplayed(Boolean expected) {
+            Boolean actual = nameInput.isDisplayed();
+            Assert.assertEquals (actual,expected,"Verify name input is displayed ");
+            return this;
+    }
+    public BasePage verifyPasswordInputDisplayed(Boolean expected) {
+        Boolean actual = passwordInput.isDisplayed();
+        Assert.assertEquals (actual,expected,"Verify password input is displayed ");
+        return this;
+    }
+
     //endregion
 
     public static BasePage init(WebDriver driver)  {

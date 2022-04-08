@@ -18,7 +18,7 @@ import static constans.Endpoints.WebPageURLS.BASE_URL;
 import static constans.PathsToFiles.LoginContext.*;
 
 
-public class LoginPage_VerifyErrorMessages_InvalidValuesTest extends BaseTest {
+public class LoginPage_InvalidValuesTest extends BaseTest {
 
     private LoginInvalidData[] invalidData;
 
@@ -57,7 +57,7 @@ public class LoginPage_VerifyErrorMessages_InvalidValuesTest extends BaseTest {
 
     }
     @Test(description = "2", dataProvider = "invalidData")
-    public void veryfyErrorUnsuccessfulLogin(LoginInvalidData data) {
+    public void verifyErrorUnsuccessfulLogin(LoginInvalidData data) {
         basePage
                 .fillName(data.getName())
                 .verifyNameValue(data.getName())
@@ -65,6 +65,13 @@ public class LoginPage_VerifyErrorMessages_InvalidValuesTest extends BaseTest {
                 .verifyPasswordValue(data.getPassword())
                 .clickLogInButton()
                 .verifyURL(BASE_URL);
+    }
+
+    @Test(description = "3", dataProvider = "invalidData")
+    public void verifyNameAndPasswordInputDisplayed() {
+        basePage
+                .verifyNameInputDisplayed(true)
+                .verifyPasswordInputDisplayed(true);
 
     }
     @AfterClass
