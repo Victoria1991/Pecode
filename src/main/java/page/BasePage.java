@@ -1,11 +1,14 @@
 package page;
 
+import constans.Endpoints;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
 
+import static constans.Endpoints.WebPageURLS.BASE_URL;
 import static constans.Locators.RegistrationPage.*;
+import static org.awaitility.Awaitility.await;
 
 public class BasePage extends BaseElement{
     @FindBy(xpath = NAME_INPUT)
@@ -22,6 +25,7 @@ public class BasePage extends BaseElement{
 
     @FindBy(xpath = PASSWORD_ERROR)
     WebElement passwordErrorMessege;
+
 
 
     public BasePage(WebDriver driver)  {
@@ -70,7 +74,13 @@ public class BasePage extends BaseElement{
         Assert.assertEquals (actual,expected,"Verify error massage name ");
         return this;
     }
+    public BasePage verifyURL(String expected) {
+        String actual = driver.getCurrentUrl();
+        Assert.assertEquals (actual,expected,"Verify error massage name ");
+        return this;
 
+
+    }
     //endregion
 
     public static BasePage init(WebDriver driver)  {

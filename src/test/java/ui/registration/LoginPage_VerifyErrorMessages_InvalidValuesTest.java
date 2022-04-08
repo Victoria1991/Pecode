@@ -14,10 +14,11 @@ import ui.registration.data.LoginInvalidData;
 
 import java.io.IOException;
 
+import static constans.Endpoints.WebPageURLS.BASE_URL;
 import static constans.PathsToFiles.LoginContext.*;
 
 
-public class RegistrationPage_VerifyErrorMessages_InvalidValuesTest extends BaseTest {
+public class LoginPage_VerifyErrorMessages_InvalidValuesTest extends BaseTest {
 
     private LoginInvalidData[] invalidData;
 
@@ -30,7 +31,7 @@ public class RegistrationPage_VerifyErrorMessages_InvalidValuesTest extends Base
         webDriver = LocalDriverManager.getWebDriver();
         basePage = BasePage.init(webDriver);
 
-        webDriver.get(Endpoints.WebPageURLS.BASE_URL);
+        webDriver.get(BASE_URL);
     }
 
 
@@ -43,7 +44,7 @@ public class RegistrationPage_VerifyErrorMessages_InvalidValuesTest extends Base
         return list;
     }
 
-    @Test(dataProvider = "invalidData")
+    @Test(description = "1", dataProvider = "invalidData")
     public void verifyErrorMessages(LoginInvalidData data) {
         basePage
                 .fillName(data.getName())
@@ -55,7 +56,17 @@ public class RegistrationPage_VerifyErrorMessages_InvalidValuesTest extends Base
                 .verifyErrorMassageName(data.getNameError());
 
     }
+    @Test(description = "2", dataProvider = "invalidData")
+    public void veryfyErrorUnsuccessfulLogin(LoginInvalidData data) {
+        basePage
+                .fillName(data.getName())
+                .verifyNameValue(data.getName())
+                .fillPass(data.getPassword())
+                .verifyPasswordValue(data.getPassword())
+                .clickLogInButton()
+                .verifyURL(BASE_URL);
 
+    }
     @AfterClass
     protected void tearDown() {
         uiTools.makeScreenShot(webDriver,(Math.random() * 10) + "test");
