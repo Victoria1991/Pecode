@@ -52,6 +52,7 @@ public class VerifyNameAndPasswordInputDisplayed extends BaseTest {
         uiTools.makeScreenShot(webDriver, (Math.random() * 10) + "test");
         webDriver.quit();
         log.info("Quit");
+
     }
 }
 
