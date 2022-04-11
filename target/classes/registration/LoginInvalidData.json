@@ -1,0 +1,32 @@
+[
+  {
+    "name":"a",
+    "nameError":"No account found with that username.",
+    "password": "1234qwerty",
+    "passwordError": ""
+  },
+  {
+    "name":"",
+    "nameError":"Please enter username.",
+    "password": "",
+    "passwordError": "Please enter your password."
+  },
+  {
+    "name":"",
+    "nameError":"Please enter username.",
+    "password": "1234qwerty",
+    "passwordError": ""
+  },
+  {
+    "name":"qwerty",
+    "nameError":"",
+    "password": "",
+    "passwordError": "Please enter your password."
+  }
+,{
+  "name":"!@$%^&&**((",
+  "nameError":"",
+  "password": "!@$%^&&**((\"",
+  "passwordError": "No account found with that username."
+}
+]

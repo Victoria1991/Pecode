@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a507a67a-38f1-4137-88ce-24c1a8e2063d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0c1ae019-830c-49d5-a211-2e766d9e1351-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0ca7020c-0e7e-4087-9453-9788ee71bd67-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/139658a6-6739-4c48-bef6-05fa690b2e43-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/191f3b9a-5c34-4d39-afe7-78920158c7b0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1adcd1c0-ca58-49f5-8e79-dc2c26d2df17-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1df2ed26-2a23-4a50-8b4d-204602ec7c7d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1fe6dfcd-fa0d-427e-b4a6-90c3bb67d928-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2188bfd1-4dd0-4209-9772-e07d965eace2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/23461356-c50b-4ba1-8e66-34ccd3b3513f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/28f3dea5-c161-4982-a209-d3507d836686-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/39176633-fbfc-4db8-a0ca-400952c70ceb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3c917a32-48e5-4ce2-83cd-72c25639f03c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/454acef9-60a3-4a9e-a75c-0c824f50fa95-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4ca88ef7-2910-4fa3-a811-54cbc200d032-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5aab5804-b83b-4443-ae6f-3f57e8373a5a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5add0c98-1c34-4811-8303-a27d8e76264a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5b7aa6f8-8854-4007-9c77-17ec42c9aabd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5c9a89f3-0335-4c7e-bc4f-d6a932bf8350-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/64a23f97-4d50-40b4-97cd-2ad53896c070-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/67138227-c3a0-46cc-9c10-8f5958dc4cf6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6975b509-214f-48b2-bedc-b920aede86e5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6c00a255-a63b-4376-87c0-2ae0ca9c1bf7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6feca1b8-99b3-47e3-92b4-b62c39244449-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7112b9c4-6927-44d5-8081-244a54c5f193-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/73bece86-87c3-4424-864e-e346f95ae4a9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/740db73f-dd5b-42a8-a6b7-13400f2ec617-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7d66103e-6070-411a-9963-b7650076990c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/83e91293-c193-41fa-816e-245d48aac7b4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/87f2243c-039e-4eaa-be41-285d5fc9d0a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/911b023e-eea2-4512-a873-e613b8c6d4dc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9409684d-16f2-4ed6-bea7-6e9f116287ff-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9a535ede-1bee-477b-9dd9-b00ebe244bcf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a2f66e4c-b91c-4fda-8bd9-05e4076bb593-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ac193fd3-8d3a-4b12-94b4-117ada55412a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ac4329f8-0bf0-418c-86e2-24172bf5218e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/afc6137b-396f-4184-9794-41a1b1758902-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b57d7f3d-86d3-445b-9686-17d147838ca8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b6d244da-0933-40c1-8378-fb03cafe3cf9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b973ad9f-0c3b-4541-98dd-435230201cd6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bc1e1e8f-e07b-4709-8549-1b5cd7f3a2c4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c0b95af2-d2e6-4d07-a917-89c34f6b6d0e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1635bd7-b3ea-4655-bc5c-08a5b6d0045c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cbbc4b52-c1ce-4f98-b56f-42f7292febd6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d3a41dfc-7284-406d-9e6e-f52e0fd058f9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d5f1f2de-3b23-4358-8ef5-cfa9c0eb0748-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/da8b722f-836c-4427-8566-cc500986b6c2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dc299ec0-73f3-4db2-85d0-4275263303c0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dced133f-6b5e-4037-8e66-c3ad6b9886c2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/df786f6b-d3de-4542-b7ed-a721b6fa4fba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dfabe380-d0a9-41ec-9d8d-8828635f21aa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e1e27c5a-2505-4d2b-b27b-0af79541cff9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e1f5a2db-7ea1-480e-8018-ca4ae19d30b0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f15cd292-bd49-4da9-b0df-267943398e87-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fab1044e-efd6-48fb-a3bc-fbfccaad1d6d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fb55e6ee-0f98-4aad-9be9-531c543457f7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fea9cedd-431a-4327-97ef-11e4c1bcb40d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/1.435680992122238test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/1.6917205675748048test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/4.475955464233test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/5.573821584817114test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/5.934982911745065test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/assembly.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/constans/Endpoints$WebPageURLS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/constans/Endpoints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/constans/Locators$RegistrationPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/constans/Locators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/constans/PathsToFiles$LoginContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/constans/PathsToFiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/page/BaseElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/page/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/paths.properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/registration/LoginInvalidData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tools/LocalDriverManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utils/UiTools.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/comPecode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ui/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ui/loginPage/VerifyErrorMessages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ui/loginPage/data/LoginInvalidData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ui/loginPage/data/VerifyErrorUnsuccessfulLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ui/loginPage/data/VerifyNameAndPasswordInputDisplayed.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ui/loginPage/data/LoginInvalidData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ui/loginPage/VerifyErrorMessages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="67" lean-forward="true" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ui/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/assembly.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/constans/Locators.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/constans/PathsToFiles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2482">
+              <caret line="146" column="32" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tools/LocalDriverManager.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <folding>
+                <element signature="e#15#63#0" expanded="true" />
+                <element signature="n#!!block;n#setDriver#0;n#!!block;n#LocalDriverManager#0" />
+                <element signature="n#!!block;n#setDriver#0;n#!!block;n#LocalDriverManager#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ui/loginPage/data/VerifyErrorUnsuccessfulLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ui/loginPage/data/VerifyNameAndPasswordInputDisplayed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>webDriver</find>
+      <find>webDriver.get</find>
+      <find>com.</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ideaTest" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/RegistrationInvalidData" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/Registration_Page_VerifyErrorMassege.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/data/RegistrationData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/Test_ReGistr.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/RegistrationInvalidData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/constans/Endpoints.java" />
+        <option value="$PROJECT_DIR$/src/main/java/constans/PathToFiles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/constans/qwer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/RegistrationData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/paths.properties.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/assembly.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/assembly.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/UiTools.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/registration/RegistrationInvalidData.json" />
+        <option value="$PROJECT_DIR$/src/main/java/tools/LocalDriverManager.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/constans/PathsToFiles.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/data/RegistrationInvalidData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/data/LogiInvalidData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/data/LoginInvalidData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/RegistrationPage_VerifyErrorMessages_InvalidValuesTest.java" />
+        <option value="$PROJECT_DIR$/comPecode.iml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/data/LoginPage_Unsacsessfull_11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/constans/Locators.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/LoginPage_VerifyErrorMessages_InvalidValuesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/page/BaseElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/page/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/LoginPage_InvalidValuesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/data/Test2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/registration/data/verifyErrorUnsuccessfulLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/loginPage/data/Test3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/loginPage/data/verifyErrorUnsuccessfulLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/loginPage/LoginPage_InvalidValuesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/loginPage/VerifyErrorMessages.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/loginPage/data/VerifyErrorUnsuccessfulLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/loginPage/data/VerifyNameAndPasswordInputDisplayed.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/registration/LoginInvalidData.json" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.Pecode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.Pecode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="registration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="loginPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="loginPage" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comPecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comPecode" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WHAT-TAQC-Java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\comPecode\src\main\resources\registration" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.VerifyNameAndPasswordInputDisplayed.verifyNameAndPasswordInputDisplayed">
+    <configuration name="LoginPage_InvalidValuesTest.verifyNameAndPasswordInputDisplayed (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comPecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.registration" />
+      <option name="MAIN_CLASS_NAME" value="ui.registration.LoginPage_InvalidValuesTest" />
+      <option name="METHOD_NAME" value="verifyNameAndPasswordInputDisplayed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage_InvalidValuesTest.verifyNameAndPasswordInputDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comPecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.registration" />
+      <option name="MAIN_CLASS_NAME" value="ui.registration.LoginPage_InvalidValuesTest" />
+      <option name="METHOD_NAME" value="verifyNameAndPasswordInputDisplayed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationPage_VerifyErrorMessages_InvalidValuesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comPecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.registration" />
+      <option name="MAIN_CLASS_NAME" value="ui.registration.RegistrationPage_VerifyErrorMessages_InvalidValuesTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyErrorUnsuccessfulLogin.verifyErrorUnsuccessfulLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comPecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.loginPage.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="ui.loginPage.data" />
+      <option name="MAIN_CLASS_NAME" value="ui.loginPage.data.VerifyErrorUnsuccessfulLogin" />
+      <option name="METHOD_NAME" value="verifyErrorUnsuccessfulLogin" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyNameAndPasswordInputDisplayed.verifyNameAndPasswordInputDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comPecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.loginPage.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="ui.loginPage.data" />
+      <option name="MAIN_CLASS_NAME" value="ui.loginPage.data.VerifyNameAndPasswordInputDisplayed" />
+      <option name="METHOD_NAME" value="verifyNameAndPasswordInputDisplayed" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="ui" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.LoginPage_InvalidValuesTest.verifyNameAndPasswordInputDisplayed" />
+      <item itemvalue="TestNG.LoginPage_InvalidValuesTest.verifyNameAndPasswordInputDisplayed (1)" />
+      <item itemvalue="TestNG.RegistrationPage_VerifyErrorMessages_InvalidValuesTest" />
+      <item itemvalue="TestNG.VerifyErrorUnsuccessfulLogin.verifyErrorUnsuccessfulLogin" />
+      <item itemvalue="TestNG.VerifyNameAndPasswordInputDisplayed.verifyNameAndPasswordInputDisplayed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.VerifyNameAndPasswordInputDisplayed.verifyNameAndPasswordInputDisplayed" />
+        <item itemvalue="TestNG.VerifyErrorUnsuccessfulLogin.verifyErrorUnsuccessfulLogin" />
+        <item itemvalue="TestNG.RegistrationPage_VerifyErrorMessages_InvalidValuesTest" />
+        <item itemvalue="TestNG.LoginPage_InvalidValuesTest.verifyNameAndPasswordInputDisplayed (1)" />
+        <item itemvalue="TestNG.LoginPage_InvalidValuesTest.verifyNameAndPasswordInputDisplayed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a507a67a-38f1-4137-88ce-24c1a8e2063d" name="Default Changelist" comment="" />
+      <created>1649407393082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649407393082</updated>
+      <workItem from="1649407397747" duration="885000" />
+      <workItem from="1649408314663" duration="2771000" />
+      <workItem from="1649411106690" duration="15687000" />
+      <workItem from="1649428284079" duration="2498000" />
+      <workItem from="1649431198781" duration="5207000" />
+      <workItem from="1649437811418" duration="4911000" />
+      <workItem from="1649442786732" duration="377000" />
+      <workItem from="1649660289116" duration="2838000" />
+    </task>
+    <task id="LOCAL-00001" summary="Start">
+      <created>1649418236492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649418236492</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactor rename">
+      <created>1649424964862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649424964862</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Test">
+      <created>1649435930557</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649435930557</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add test">
+      <created>1649438979645</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649438979645</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add test">
+      <created>1649442943586</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649442943587</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor method">
+      <created>1649661657406</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649661657406</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LoginPage_InvalidValuesTest_verifyNameAndPasswordInputDisplayed_(1) - 2022.04.08 at 20h 35m 24s.xml">
+      <configuration name="LoginPage_InvalidValuesTest.verifyNameAndPasswordInputDisplayed (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginPage_InvalidValuesTest_verifyNameAndPasswordInputDisplayed - 2022.04.11 at 09h 08m 34s.xml">
+      <configuration name="LoginPage_InvalidValuesTest.verifyNameAndPasswordInputDisplayed" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ui - 2022.04.11 at 09h 10m 57s.xml">
+      <configuration name="ui" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RegistrationPage_VerifyErrorMessages_InvalidValuesTest - 2022.04.11 at 09h 11m 33s.xml">
+      <configuration name="RegistrationPage_VerifyErrorMessages_InvalidValuesTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyErrorUnsuccessfulLogin_verifyErrorUnsuccessfulLogin - 2022.04.11 at 09h 12m 08s.xml">
+      <configuration name="VerifyErrorUnsuccessfulLogin.verifyErrorUnsuccessfulLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyErrorUnsuccessfulLogin_verifyErrorUnsuccessfulLogin - 2022.04.11 at 09h 18m 14s.xml">
+      <configuration name="VerifyErrorUnsuccessfulLogin.verifyErrorUnsuccessfulLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyNameAndPasswordInputDisplayed_verifyNameAndPasswordInputDisplayed - 2022.04.11 at 09h 18m 34s.xml">
+      <configuration name="VerifyNameAndPasswordInputDisplayed.verifyNameAndPasswordInputDisplayed" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyNameAndPasswordInputDisplayed_verifyNameAndPasswordInputDisplayed - 2022.04.11 at 09h 18m 41s.xml">
+      <configuration name="VerifyNameAndPasswordInputDisplayed.verifyNameAndPasswordInputDisplayed" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyNameAndPasswordInputDisplayed_verifyNameAndPasswordInputDisplayed - 2022.04.11 at 09h 19m 18s.xml">
+      <configuration name="VerifyNameAndPasswordInputDisplayed.verifyNameAndPasswordInputDisplayed" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyNameAndPasswordInputDisplayed_verifyNameAndPasswordInputDisplayed - 2022.04.11 at 09h 20m 22s.xml">
+      <configuration name="VerifyNameAndPasswordInputDisplayed.verifyNameAndPasswordInputDisplayed" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35174000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18724832" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26628897" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.09490085" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" visible="true" weight="0.19546743" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.30736545" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32885906" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start" />
+    <MESSAGE value="Refactor rename" />
+    <MESSAGE value="Add Test" />
+    <MESSAGE value="rename" />
+    <MESSAGE value="refactor method" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor method" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/comPecode$LoginPage_InvalidValuesTest_verifyNameAndPasswordInputDisplayed.ic" NAME="LoginPage_InvalidValuesTest.verifyNameAndPasswordInputDisplayed Coverage Results" MODIFIED="1649441049265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ui.registration.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/results/1.311988249866466test.jpg" />
+    <entry file="file://$PROJECT_DIR$/results/0.211648725003718test.jpg" />
+    <entry file="file://$PROJECT_DIR$/results/8.901636103123693test.jpg" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.4.0/testng-7.4.0.jar!/org/testng/internal/TestInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="477" selection-start-line="477" selection-end-line="477" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/4.791956353454346test.jpg" />
+    <entry file="file://$PROJECT_DIR$/results/1.2920025477409758test.jpg" />
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/User.java" />
+    <entry file="file://$PROJECT_DIR$/comPecode.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/8.937059457612996test.jpg" />
+    <entry file="file://$PROJECT_DIR$/results/8.455355937687557test.jpg" />
+    <entry file="file://$PROJECT_DIR$/results/8.304998682342335test.jpg" />
+    <entry file="file://$PROJECT_DIR$/results/5.449012106751128test.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/UiTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.4.0/testng-7.4.0.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="309" column="20" selection-start-line="309" selection-start-column="20" selection-end-line="309" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/1.8298564664700978test.jpg" />
+    <entry file="file://$PROJECT_DIR$/results/4.980965155779444test.jpg" />
+    <entry file="file://$PROJECT_DIR$/results/5.389404924730934test.jpg" />
+    <entry file="file://$PROJECT_DIR$/results/9.057884520003327test.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/registration/data/LoginPage_Unsacsessfull_11.java" />
+    <entry file="file://$PROJECT_DIR$/New Text Document.txt" />
+    <entry file="file://$PROJECT_DIR$/results/7.443122000432009test.jpg" />
+    <entry file="file://$PROJECT_DIR$/allure-results/0bc1fedc-fffa-4eea-86e9-b885ab94bbd4-result.json" />
+    <entry file="file://$PROJECT_DIR$/allure-results/2cff4580-cea2-4ded-a8d7-6c6268ce9606-container.json" />
+    <entry file="file://$PROJECT_DIR$/allure-results/7a735af5-6a3b-4696-b9c6-229221b2e0ce-result.json" />
+    <entry file="file://$PROJECT_DIR$/allure-results/d2f86d7e-137c-406e-83ff-9530e3e7b979-result.json" />
+    <entry file="file://$PROJECT_DIR$/allure-results/7ebb8964-b6ed-456c-b162-cc1ce317ce87-result.json" />
+    <entry file="file://$PROJECT_DIR$/allure-results/82526cb8-9eaa-4f04-ac89-debabc630bf5-result.json" />
+    <entry file="file://$PROJECT_DIR$/allure-results/9d48b3ca-9f65-4d8f-af57-ecea1a2aa63e-result.json" />
+    <entry file="file://$PROJECT_DIR$/allure-results/aef56c52-4297-4f22-9b3b-1b5f0af8669e-result.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/constans/Endpoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_202/jre/lib/rt.jar!/sun/nio/ch/WindowsSelectorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="446" column="27" selection-start-line="446" selection-start-column="27" selection-end-line="446" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="788" column="29" selection-start-line="788" selection-start-column="29" selection-end-line="788" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.1.1/selenium-support-4.1.1.jar!/org/openqa/selenium/support/FindBy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/registration/RegistrationPage_VerifyErrorMessages_InvalidValuesTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/page/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="100" column="55" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/page/BaseElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/paths.properties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/registration/LoginInvalidData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assembly.xml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/constans/Locators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/constans/PathsToFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="32" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tools/LocalDriverManager.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#15#63#0" expanded="true" />
+            <element signature="n#!!block;n#setDriver#0;n#!!block;n#LocalDriverManager#0" />
+            <element signature="n#!!block;n#setDriver#0;n#!!block;n#LocalDriverManager#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/loginPage/data/LoginInvalidData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/loginPage/data/VerifyErrorUnsuccessfulLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/loginPage/data/VerifyNameAndPasswordInputDisplayed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/loginPage/VerifyErrorMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="67" lean-forward="true" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (3)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>comPecode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.78</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
