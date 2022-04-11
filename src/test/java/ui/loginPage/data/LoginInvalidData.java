@@ -1,4 +1,4 @@
-package ui.registration.data;
+package ui.loginPage.data;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
